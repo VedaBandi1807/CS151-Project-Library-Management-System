@@ -1,40 +1,46 @@
-# CS151-Project-Library-Management-System
-Library Management System Using Java GUI
+# Library Management System Using Java GUI
 
 Application name: EloquentReads Library Management System
+
 Developed by: Veda Sahithi Bandi – 017506801
+
 Introduction:
+
 The Library Management System (LMS) is a Java-based application designed to manage library operations efficiently. The system provides a graphical user interface (GUI) for users to interact with the library's functionalities. It allows librarians to manage books and user accounts, while regular users can borrow and return books. User and book data are stored in a text file and the application also supports different types of users, including librarians and regular users each with specific roles and access levels.
+
 Key Features:
-•	User Management: Librarians can activate or deactivate user accounts.
-•	Book Management: Librarians can add and remove book information.
-•	Borrow and Return Books: Users and Librarians can borrow and return books with constraints on the number of books borrowed.
-•	Search and Sort: Search and sort functionality for books and users.
-•	User Registration: Users can sign up by providing their first name, last name, email, password. There is an option for users to sign up either as a normal user or a librarian.
-•	User Login: Registered users can log in with their library card number and password. 
-•	User Persistence: User and book data is stored in a text file (`libraryData.txt`) for persistence.
+
+ •	User Management: Librarians can activate or deactivate user accounts.
+ •	Book Management: Librarians can add and remove book information.
+ •	Borrow and Return Books: Users and Librarians can borrow and return books with constraints on the number of books borrowed.
+ •	Search and Sort: Search and sort functionality for books and users.
+ •	User Registration: Users can sign up by providing their first name, last name, email, password. There is an option for users to sign up either as a normal user or a librarian.
+ •	User Login: Registered users can log in with their library card number and password. 
+ •	User Persistence: User and book data is stored in a text file (`libraryData.txt`) for persistence.
+
 Prerequisites: 
-•	Java Development Kit (JDK) 8 or higher  
-•	An IDE or text editor for Java development (e.g., IntelliJ IDEA, Eclipse) 
-•	A terminal or command prompt
-•	Ensure that the image path is correct in the MyLibrary enum class and LibraryManagementSystemGUI class (I have provided the images in the src → resources folder.)
+ •	Java Development Kit (JDK) 8 or higher  
+ •	An IDE or text editor for Java development (e.g., IntelliJ IDEA, Eclipse) 
+ •	A terminal or command prompt
+ •	Ensure that the image path is correct in the MyLibrary enum class and LibraryManagementSystemGUI class (I have provided the images in the src → resources folder.)
+
 Instructions to run the program:
-1.	Clone the Repository containing the project code to your local machine.
+ 1.	Clone the Repository containing the project code to your local machine.
+ ![image](https://github.com/user-attachments/assets/cd474961-cb72-4e85-8368-1ca79767a7ed)
+ 2.	Ensure that the image path is correct in the LibraryManagementSystemGUI class (I have provided the images in the src → resources folder.)
+ 3.	Compile the program:
+  a.	Open your terminal or command prompt.
+  b.	Compile the files using the following command:
+   ![image](https://github.com/user-attachments/assets/9207f688-10b9-43da-94bd-69256c67c165)
+   o	-d bin: Specifies the output directory for compiled classes.
+   o	src/*.java: Indicates the source files to be compiled.
+ 4.	Run the program:
+  a.	After successful compilation, navigate to the bin directory:
+  b.	Run the main class using the following command:
+   ![image](https://github.com/user-attachments/assets/44cc7bfd-1989-485c-b53d-bd8d030cb80c)
 
- 
-
-2.	Ensure that the image path is correct in the LibraryManagementSystemGUI class (I have provided the images in the src → resources folder.)
-3.	Compile the program:
-a.	Open your terminal or command prompt.
-b.	Compile the files using the following command:
- 
-o	-d bin: Specifies the output directory for compiled classes.
-o	src/*.java: Indicates the source files to be compiled.
-4.	Run the program:
-a.	After successful compilation, navigate to the bin directory:
-b.	Run the main class using the following command:
- 
 Project Structure
+
 The project is organized into the following structure:
 •	src/: Contains all Java source files. Below are the few main java files
 o	LibraryManagementSystemGUI.java: Main class to launch the GUI application.
@@ -46,6 +52,7 @@ o	UserManager.java: Manages user-related operations.
 o	MyLibrary.java: Manages the database and library operations.
 •	bin/: Directory for compiled classes.
 •	README.md: This file.
+
 How the Program Works
 GUI Overview
 The application uses Java Swing to create a user-friendly graphical interface. The main GUI consists of:
