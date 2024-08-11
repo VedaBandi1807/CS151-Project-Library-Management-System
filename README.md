@@ -38,6 +38,7 @@ The **Library Management System (LMS)** is a Java-based application designed to 
  4.	Run the program:
     * After successful compilation, navigate to the bin directory:
     * Run the main class using the following command:
+  
      ![image](https://github.com/user-attachments/assets/44cc7bfd-1989-485c-b53d-bd8d030cb80c)
 
 ## Project Structure
@@ -59,10 +60,10 @@ The **Library Management System (LMS)** is a Java-based application designed to 
 ### GUI Overview
 
 The application uses Java Swing to create a user-friendly graphical interface. The main GUI consists of:
- 1.	Welcome Screen: The entry point of the application, providing options to log in or sign up.
+ 1.	Welcome Screen: The entry point of the application, provides options to log in or sign up.
  2.	Login Screen: Allows users to log in using their library card number and password.
  3.	Signup Screen: Enables new users to register by providing their details.
- 4.	Librarian Dashboard: For librarians to login as a user or manage books and user accounts.
+ 4.	Librarian Dashboard: For librarians to log in as a user or manage books and user accounts.
  5.	User Dashboard: For regular users to manage borrowed books and view library information.
 Functionalities
  1. User Management:
@@ -73,9 +74,34 @@ Functionalities
     * Add/Remove Books: Librarians can add new books or remove existing ones.
  3. Borrowing and Returning Books:
     * Borrow Books: Users can borrow books, with a maximum limit of two books at a time.
- o	Return Books: Users can return borrowed books to the library.
- o	View Book Details: Users can view details of all the available books.
- o	Search and Sort Books: Search for books by title or author or ISBN and sort them.
+    * Return Books: Users can return borrowed books to the library.
+    * View Book Details: Users can view details of all the available books.
+    * Search and Sort Books: Search for books by title or author or ISBN and sort them.
+
+
+## Application Snapshots:
+
+1. Home Page
+   ![image](https://github.com/user-attachments/assets/754dc797-334e-46ea-b5f6-6987e356e513)
+2. Signup Page
+   * SignUp a Normal User
+   ![image](https://github.com/user-attachments/assets/67c4e3fd-e19c-42d4-aee2-7aa7809010c9)
+   ![image](https://github.com/user-attachments/assets/082d5cda-8b47-42fa-8b0d-e31c6c2e9221)
+   * SignUp a Librarian
+   ![image](https://github.com/user-attachments/assets/38c1699f-76e6-4af4-a9e5-7a6ba9944e83)
+   ![image](https://github.com/user-attachments/assets/6f0565e7-9caf-4608-8ec6-659d9fff5f72)
+3. Login Page
+   ![image](https://github.com/user-attachments/assets/0e68a781-86d5-4197-aade-6dee76c58351)
+   ![image](https://github.com/user-attachments/assets/b0fd72a1-e8d9-4bed-90bb-d8fea1977dbc)
+4. Librarian Dashboard
+   ![image](https://github.com/user-attachments/assets/2f37de4e-88eb-4e8b-a6b6-474b61a06ce5)
+   * Manage Users
+   * Manage Books
+   * Login as a User
+6. UserDashboard
+7. 
+
+
 
 
 
