@@ -30,11 +30,11 @@ The **Library Management System (LMS)** is a Java-based application designed to 
  ![image](https://github.com/user-attachments/assets/cd474961-cb72-4e85-8368-1ca79767a7ed)
  2.	Ensure the image path is correct in the LibraryManagementSystemGUI class (I have provided the images in the src → resources folder.)
  3.	Compile the program:
-* Open your terminal or command prompt.
-* Compile the files using the following command:
+ * Open your terminal or command prompt.
+ * Compile the files using the following command:
    ![image](https://github.com/user-attachments/assets/9207f688-10b9-43da-94bd-69256c67c165)
-  - -d bin: Specifies the output directory for compiled classes.
-  - src/*.java: Indicates the source files to be compiled.
+   - -d bin: Specifies the output directory for compiled classes.
+   - src/*.java: Indicates the source files to be compiled.
  4.	Run the program:
     * After successful compilation, navigate to the bin directory:
     * Run the main class using the following command:
@@ -43,20 +43,20 @@ The **Library Management System (LMS)** is a Java-based application designed to 
 ## Project Structure
 
  The project is organized into the following structure:
- •	src/: Contains all Java source files. Below are the few main java files
-    o	LibraryManagementSystemGUI.java: Main class to launch the GUI application.
-    o	BookManager.java: Manages book-related operations.
-    o	Librarian.java: Defines the Librarian user and their functionalities.
-    o	NormalUser.java: Defines the Normal user and their functionalities.
-    o	Book.java: Represents a book in the library.
-    o	UserManager.java: Manages user-related operations.
-    o	MyLibrary.java: Manages the database and library operations.
- •	bin/: Directory for compiled classes.
- •	README.md: This file.
+ * src/: Contains all Java source files. Below are the few main java files
+    - LibraryManagementSystemGUI.java: Main class to launch the GUI application.
+    - BookManager.java: Manages book-related operations.
+    - Librarian.java: Defines the Librarian user and their functionalities.
+    - NormalUser.java: Defines the Normal user and their functionalities.
+    - Book.java: Represents a book in the library.
+    - UserManager.java: Manages user-related operations.
+    - MyLibrary.java: Manages the database and library operations.
+ * bin/: Directory for compiled classes.
+ * README.md: This file.
 
-How the Program Works
+## How the Program Works
 
-GUI Overview
+### GUI Overview
 
 The application uses Java Swing to create a user-friendly graphical interface. The main GUI consists of:
  1.	Welcome Screen: The entry point of the application, providing options to log in or sign up.
@@ -65,14 +65,14 @@ The application uses Java Swing to create a user-friendly graphical interface. T
  4.	Librarian Dashboard: For librarians to login as a user or manage books and user accounts.
  5.	User Dashboard: For regular users to manage borrowed books and view library information.
 Functionalities
- •	User Management:
- o	Activate/Deactivate Accounts: Librarians can enable or disable user accounts.
- o	View User Details: Librarians can view details of all users.
- o	Search and Sort Users: Search for books by name and sort them by name, library card number.
- •	Book Management:
- o	Add/Remove Books: Librarians can add new books or remove existing ones.
- •	Borrowing and Returning Books:
- o	Borrow Books: Users can borrow books, with a maximum limit of two books at a time.
+ 1. User Management:
+    * Activate/Deactivate Accounts: Librarians can enable or disable user accounts.
+    * View User Details: Librarians can view details of all users.
+    * Search and Sort Users: Search for books by name and sort them by name, and library card number.
+ 2. Book Management:
+    * Add/Remove Books: Librarians can add new books or remove existing ones.
+ 3. Borrowing and Returning Books:
+    * Borrow Books: Users can borrow books, with a maximum limit of two books at a time.
  o	Return Books: Users can return borrowed books to the library.
  o	View Book Details: Users can view details of all the available books.
  o	Search and Sort Books: Search for books by title or author or ISBN and sort them.
