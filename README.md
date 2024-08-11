@@ -10,13 +10,13 @@ The **Library Management System (LMS)** is a Java-based application designed to 
 
 ## Key Features:
 
-- User Management: Librarians can activate or deactivate user accounts.
-* Book Management: Librarians can add and remove book information.
- •	Borrow and Return Books: Users and Librarians can borrow and return books with constraints on the number of books borrowed.
- •	Search and Sort: Search and sort functionality for books and users.
- •	User Registration: Users can sign up by providing their first name, last name, email, and password. There is an option for users to sign up either as a normal user or a librarian.
- •	User Login: Registered users can log in with their library card number and password. 
- •	User Persistence: User and book data is stored in a text file (`libraryData.txt`) for persistence.
+- *User Management*: Librarians can activate or deactivate user accounts.
+* *Book Management*: Librarians can add and remove book information.
+* *Borrow and Return Books*: Users and Librarians can borrow and return books with constraints on the number of books borrowed.
+* *Search and Sort*: Search and sort functionality for books and users.
+* *User Registration*: Users can sign up by providing their first name, last name, email, and password. There is an option for users to sign up either as a normal user or a librarian.
+* *User Login*: Registered users can log in with their library card number and password.
+* *User Persistence*: User and book data is stored in a text file (`libraryData.txt`) for persistence.
 
 Prerequisites: 
  •	Java Development Kit (JDK) 8 or higher  
