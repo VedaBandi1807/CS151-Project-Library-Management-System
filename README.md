@@ -18,28 +18,29 @@ The **Library Management System (LMS)** is a Java-based application designed to 
 * *User Login*: Registered users can log in with their library card number and password.
 * *User Persistence*: User and book data is stored in a text file (`libraryData.txt`) for persistence.
 
-Prerequisites: 
- •	Java Development Kit (JDK) 8 or higher  
- •	An IDE or text editor for Java development (e.g., IntelliJ IDEA, Eclipse) 
- •	A terminal or command prompt
- •	Ensure that the image path is correct in the MyLibrary enum class and LibraryManagementSystemGUI class (I have provided the images in the src → resources folder.)
+## Prerequisites: 
+* Java Development Kit (JDK) 8 or higher
+* An IDE or text editor for Java development (e.g., IntelliJ IDEA, Eclipse)
+* A terminal or command prompt
+* Ensure the image path is correct in the MyLibrary enum class and LibraryManagementSystemGUI class (I have provided the images in the src → resources folder.)
 
-Instructions to run the program:
+## Instructions to run the program:
+
  1.	Clone the Repository containing the project code to your local machine.
  ![image](https://github.com/user-attachments/assets/cd474961-cb72-4e85-8368-1ca79767a7ed)
  2.	Ensure the image path is correct in the LibraryManagementSystemGUI class (I have provided the images in the src → resources folder.)
  3.	Compile the program:
-  a.	Open your terminal or command prompt.
-  b.	Compile the files using the following command:
+* Open your terminal or command prompt.
+* Compile the files using the following command:
    ![image](https://github.com/user-attachments/assets/9207f688-10b9-43da-94bd-69256c67c165)
-   o	-d bin: Specifies the output directory for compiled classes.
-   o	src/*.java: Indicates the source files to be compiled.
+  - -d bin: Specifies the output directory for compiled classes.
+  - src/*.java: Indicates the source files to be compiled.
  4.	Run the program:
-  a.	After successful compilation, navigate to the bin directory:
-  b.	Run the main class using the following command:
-   ![image](https://github.com/user-attachments/assets/44cc7bfd-1989-485c-b53d-bd8d030cb80c)
+    * After successful compilation, navigate to the bin directory:
+    * Run the main class using the following command:
+     ![image](https://github.com/user-attachments/assets/44cc7bfd-1989-485c-b53d-bd8d030cb80c)
 
-Project Structure
+## Project Structure
 
  The project is organized into the following structure:
  •	src/: Contains all Java source files. Below are the few main java files
