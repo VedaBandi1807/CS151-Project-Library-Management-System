@@ -28,7 +28,7 @@ The **Library Management System (LMS)** is a Java-based application designed to 
 
  1.	Clone the Repository containing the project code to your local machine.
     <div align="center">
-	<img src="![image](https://github.com/user-attachments/assets/56820efd-060c-4cf7-af48-a23642e37e80)">
+	<img src="https://github.com/user-attachments/assets/56820efd-060c-4cf7-af48-a23642e37e80">
     </div>
  2.	Ensure the image path is correct in the LibraryManagementSystemGUI class (I have provided the images in the src → resources folder.)
  3.	Compile the program:
