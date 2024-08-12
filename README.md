@@ -35,7 +35,7 @@ The **Library Management System (LMS)** is a Java-based application designed to 
  	* Open your terminal or command prompt.
  	* Compile the files using the following command:
   	 <div align="center">
-	<img src="![image](https://github.com/user-attachments/assets/361c4285-f9b1-42bd-a5a9-2e97e2a0d01b)">
+	<img src="https://github.com/user-attachments/assets/361c4285-f9b1-42bd-a5a9-2e97e2a0d01b">
          </div>
    		- -d bin: Specifies the output directory for compiled classes.
   		- src/*.java: Indicates the source files to be compiled.
@@ -43,7 +43,7 @@ The **Library Management System (LMS)** is a Java-based application designed to 
     * After successful compilation, navigate to the bin directory:
     * Run the main class using the following command:
   <div align="center">
-	<img src="![image](https://github.com/user-attachments/assets/a059b108-64e6-4a1f-89cc-7c47de8d8b24)">
+	<img src="https://github.com/user-attachments/assets/a059b108-64e6-4a1f-89cc-7c47de8d8b24">
   </div>
 
 ## Project Structure
@@ -87,24 +87,61 @@ Functionalities
 ## Application Snapshots:
 
 1. Home Page
-   ![image](https://github.com/user-attachments/assets/754dc797-334e-46ea-b5f6-6987e356e513)
+   <div align="center">
+	<img src="https://github.com/user-attachments/assets/754dc797-334e-46ea-b5f6-6987e356e513">
+  </div>
 2. Signup Page
    * SignUp a Normal User
-   ![image](https://github.com/user-attachments/assets/67c4e3fd-e19c-42d4-aee2-7aa7809010c9)
-   ![image](https://github.com/user-attachments/assets/082d5cda-8b47-42fa-8b0d-e31c6c2e9221)
+   <div align="center">
+	<img src="https://github.com/user-attachments/assets/67c4e3fd-e19c-42d4-aee2-7aa7809010c9">
+  </div> <div align="center">
+	<img src="https://github.com/user-attachments/assets/082d5cda-8b47-42fa-8b0d-e31c6c2e9221">
+  </div>
    * SignUp a Librarian
-   ![image](https://github.com/user-attachments/assets/38c1699f-76e6-4af4-a9e5-7a6ba9944e83)
-   ![image](https://github.com/user-attachments/assets/6f0565e7-9caf-4608-8ec6-659d9fff5f72)
+   <div align="center">
+	<img src="https://github.com/user-attachments/assets/38c1699f-76e6-4af4-a9e5-7a6ba9944e83">
+  </div> <div align="center">
+	<img src="https://github.com/user-attachments/assets/6f0565e7-9caf-4608-8ec6-659d9fff5f72">
+  </div>
 3. Login Page
-   ![image](https://github.com/user-attachments/assets/0e68a781-86d5-4197-aade-6dee76c58351)
-   ![image](https://github.com/user-attachments/assets/b0fd72a1-e8d9-4bed-90bb-d8fea1977dbc)
-4. Librarian Dashboard
-   ![image](https://github.com/user-attachments/assets/2f37de4e-88eb-4e8b-a6b6-474b61a06ce5)
+   <div align="center">
+	<img src="https://github.com/user-attachments/assets/0e68a781-86d5-4197-aade-6dee76c58351">
+  </div> <div align="center">
+	<img src="https://github.com/user-attachments/assets/b0fd72a1-e8d9-4bed-90bb-d8fea1977dbc">
+  </div>
+5. Librarian Dashboard
+  <div align="center">
+	<img src="https://github.com/user-attachments/assets/2f37de4e-88eb-4e8b-a6b6-474b61a06ce5">
+  </div>
    * Manage Users
+   <div align="center">
+	<img src="https://github.com/user-attachments/assets/6230c3aa-6511-41d9-80a5-a751efec64ee">
+  </div>
+  <div align="center">
+	<img src="https://github.com/user-attachments/assets/2bc37b30-dfbd-447a-a4fa-2c809bb03377">
+  </div>
    * Manage Books
+   <div align="center">
+	<img src="https://github.com/user-attachments/assets/5eb074b0-6ec6-4877-ac71-630693a482b8">
+  </div>
+   * Manage Users
+   <div align="center">
+	<img src="https://github.com/user-attachments/assets/ae7a6c62-40d3-4c29-ab97-a5062cf259eb">
+  </div>
+  <div align="center">
+	<img src="https://github.com/user-attachments/assets/1c301109-0fbd-4fb4-a216-9f4269dc7d80">
+  </div>
    * Login as a User
+   <div align="center">
+	<img src="https://github.com/user-attachments/assets/f9a57b32-ba40-41d6-92e6-5c0d5274f33d">
+  </div> <div align="center">
+	<img src="https://github.com/user-attachments/assets/16f66bb1-5fe9-4f20-a95e-d379712eb8ff">
+  </div>
 6. UserDashboard
-7. 
+   <div align="center">
+	<img src="https://github.com/user-attachments/assets/d493502e-f665-40b6-a64a-8f838652a654">
+  </div>
+
 
 
 
