@@ -124,7 +124,6 @@ Functionalities
    <div align="center">
 	<img src="https://github.com/user-attachments/assets/5eb074b0-6ec6-4877-ac71-630693a482b8">
   </div>
-   * Manage Users
    <div align="center">
 	<img src="https://github.com/user-attachments/assets/ae7a6c62-40d3-4c29-ab97-a5062cf259eb">
   </div>
