@@ -27,9 +27,11 @@ The **Library Management System (LMS)** is a Java-based application designed to 
 ## Instructions to run the program:
 
  1.	Clone the Repository containing the project code to your local machine.
- ![image](https://github.com/user-attachments/assets/cd474961-cb72-4e85-8368-1ca79767a7ed)
- 2.	Ensure the image path is correct in the LibraryManagementSystemGUI class (I have provided the images in the src → resources folder.)
- 3.	Compile the program:
+ 2.	<div align="center">
+	<img src="[https://i.imgur.com/8BgVXcY.png](https://github.com/user-attachments/assets/cd474961-cb72-4e85-8368-1ca79767a7ed)">
+</div>
+ 3.	Ensure the image path is correct in the LibraryManagementSystemGUI class (I have provided the images in the src → resources folder.)
+ 4.	Compile the program:
  * Open your terminal or command prompt.
  * Compile the files using the following command:
    ![image](https://github.com/user-attachments/assets/9207f688-10b9-43da-94bd-69256c67c165)
