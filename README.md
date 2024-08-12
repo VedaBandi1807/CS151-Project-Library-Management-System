@@ -141,6 +141,8 @@ Functionalities
 	<img src="https://github.com/user-attachments/assets/d493502e-f665-40b6-a64a-8f838652a654">
   </div>
 
+If you encounter any issues or have questions, feel free to reach out to vedasahithi.bandi@sjsu.edu
+Thank you for using EloquentReads!
 
 
 
