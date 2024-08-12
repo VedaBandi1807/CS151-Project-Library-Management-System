@@ -1,0 +1,18 @@
+Books:
+Effective Java;Joshua Bloch;9780134685991;false
+Refactoring;Martin Fowler;9780201485677;true
+Design Patterns;Erich Gamma;9780201633610;false
+Clean Code;Robert C. Martin;9780132350884;false
+Users:
+NormalUser;Toshi;Bhat;toshi.bhat@sjsu.edu;12351;Password1!;true;
+NormalUser;Andy;Van;andy.t.van@sjsu.edu;12352;Password1!;true;
+NormalUser;John;Belmont;jb@gmail.com;12350;Password1!;true;
+NormalUser;Kenmin;Ho;kenmin.ho@sjsu.edu;12355;Password1!;false;
+Librarian;Veda;Bandi;vedasahithi.bandi@sjsu.edu;12345;Password1!;true;
+NormalUser;Marcus;Lang;marcus.lang@sjsu.edu;12356;Password1!;true;
+NormalUser;Tony;Feng;musizb3ats@gmail.com;12353;Password1!;true;
+NormalUser;Hetal;Halani;hetal.halani@sjsu.edu;12354;Password1!;true;
+Librarian;Chung-Wen;Tsao;chung-wen.tsao@sjsu.edu;12348;Password1!;true;9780201485677
+NormalUser;Lohith;Surenagaraja;lohithraj.surenagaraja@sjsu.edu;12349;Password1!;true;
+NormalUser;Taras;Tishchenko;taras.tishchenko@sjsu.edu;12346;Password1!;true;
+NormalUser;Varun;Valiveti;varun.valiveti@sjsu.edu;12347;Password1!;true;
